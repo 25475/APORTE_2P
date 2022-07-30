@@ -1,0 +1,14 @@
+D:\aporte2POO\aporte2POO\bin\Debug\netcoreapp3.1\aporte2POO.exe
+D:\aporte2POO\aporte2POO\bin\Debug\netcoreapp3.1\aporte2POO.deps.json
+D:\aporte2POO\aporte2POO\bin\Debug\netcoreapp3.1\aporte2POO.runtimeconfig.json
+D:\aporte2POO\aporte2POO\bin\Debug\netcoreapp3.1\aporte2POO.runtimeconfig.dev.json
+D:\aporte2POO\aporte2POO\bin\Debug\netcoreapp3.1\aporte2POO.dll
+D:\aporte2POO\aporte2POO\bin\Debug\netcoreapp3.1\aporte2POO.pdb
+D:\aporte2POO\aporte2POO\obj\Debug\netcoreapp3.1\aporte2POO.csproj.AssemblyReference.cache
+D:\aporte2POO\aporte2POO\obj\Debug\netcoreapp3.1\aporte2POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\aporte2POO\aporte2POO\obj\Debug\netcoreapp3.1\aporte2POO.AssemblyInfoInputs.cache
+D:\aporte2POO\aporte2POO\obj\Debug\netcoreapp3.1\aporte2POO.AssemblyInfo.cs
+D:\aporte2POO\aporte2POO\obj\Debug\netcoreapp3.1\aporte2POO.csproj.CoreCompileInputs.cache
+D:\aporte2POO\aporte2POO\obj\Debug\netcoreapp3.1\aporte2POO.dll
+D:\aporte2POO\aporte2POO\obj\Debug\netcoreapp3.1\aporte2POO.pdb
+D:\aporte2POO\aporte2POO\obj\Debug\netcoreapp3.1\aporte2POO.genruntimeconfig.cache
